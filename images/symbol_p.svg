@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="logotype_h" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5F1FE;}
+	.st1{fill:none;stroke:#C06CF5;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:22.1254,22.1254;}
+	.st2{fill:none;stroke:#C06CF5;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#DDA5FD;}
+	.st4{opacity:0;}
+</style>
+<rect id="XMLID_128_" y="0" class="st0" width="1200" height="1200"/>
+<g id="XMLID_1_">
+	<path class="st1" d="M600,1100L600,1100c-276.1,0-500-223.9-500-500v0c0-276.1,223.9-500,500-500h0c276.1,0,500,223.9,500,500v0
+		C1100,876.1,876.1,1100,600,1100z"/>
+</g>
+<line id="XMLID_127_" class="st2" x1="0" y1="900" x2="1200" y2="900"/>
+<line id="XMLID_126_" class="st2" x1="0" y1="518" x2="1200" y2="518"/>
+<line id="XMLID_124_" class="st2" x1="322.2" y1="0" x2="322.2" y2="1200"/>
+<line id="XMLID_122_" class="st2" x1="877.8" y1="0" x2="877.8" y2="1200"/>
+<line id="XMLID_121_" class="st2" x1="0" y1="300" x2="1200" y2="300"/>
+<g>
+	<polygon class="st3" points="569.9,518.3 450,518.3 658.4,709.1 439.9,900 559.8,900 770.8,709.1 	"/>
+	<g>
+		<path class="st3" d="M679.2,300H520.8c-109.7,0-198.7,88.9-198.7,198.7v58.8c0,109.7,88.9,198.7,198.7,198.7h164.9v-92.4H425.3
+			c-6,0-10.8-4.8-10.8-10.8V403.2c0-6,4.8-10.8,10.8-10.8h349.4c6,0,10.8,4.8,10.8,10.8V900h92.4V498.7
+			C877.8,388.9,788.9,300,679.2,300z"/>
+	</g>
+</g>
+<rect x="450" class="st4" width="300" height="300"/>
+<rect x="450" y="900" class="st4" width="300" height="300"/>
+<rect x="22.2" y="450" class="st4" width="300" height="300"/>
+<rect x="877.8" y="450" class="st4" width="300" height="300"/>
+</svg>
